@@ -1,9 +1,9 @@
-import Jug from "./components/Jug";
+import Filler from "./components/Filler";
 
 function App() {
   return (
     <div className="flex justify-center mt-9">
-      <Jug />
+      <Filler />
     </div>
   );
 }
